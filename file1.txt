@@ -1,4 +1,6 @@
 hello git
 first changes
+
+version 1
 same str
 ok
